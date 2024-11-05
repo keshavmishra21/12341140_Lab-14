@@ -1,2 +1,3 @@
 Content for Local Repository 2, file 2
 Conflicting content from Local Repository 1 in file2.txt
+
