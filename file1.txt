@@ -1,1 +1,2 @@
 Content for Local Repository 1, file 1
+Conflicting content from Local Repository 1 in file1.txt
